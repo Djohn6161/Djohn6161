@@ -4,7 +4,7 @@
 
 <p align="center"> - 🌱 I’m currently learning **Laravel and Vue** - </p>
 
-<p align="center"> - 📫 How to reach me **djohncurativo@gmail.com** - </p>
+<p align="center"> - 📫 How to reach me **djohncurativo6161@gmail.com** - </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djohn6161&" alt="djohn6161" /></p>
 
