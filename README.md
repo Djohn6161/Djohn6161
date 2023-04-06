@@ -24,7 +24,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a align="center" href="https://fb.com/don john daryl curativo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="don john daryl curativo" height="30" width="40" /></a>
+<a align="center" href="https://facebook.com/donjohndaryl.curativo.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="don john daryl curativo" height="30" width="40" /></a>
 </p>
 
 <!--
